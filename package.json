@@ -1,0 +1,10 @@
+{
+  "name": "wa-kit",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Plugin de Claude Code: este package.json solo existe para que Node cargue los hooks como módulos ESM.",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  }
+}

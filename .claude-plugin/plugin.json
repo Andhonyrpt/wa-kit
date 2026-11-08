@@ -1,0 +1,10 @@
+{
+  "name": "wa-kit",
+  "version": "0.1.0",
+  "description": "Equipo de desarrollo para Claude Code: arquitecto, backend, frontend y revisor; comandos /feature y /auditar; hooks de guardia de secretos, lint y pendientes.",
+  "author": {
+    "name": "Andhony Rodolfo Palacios Téllez"
+  },
+  "license": "MIT",
+  "keywords": ["subagents", "team", "adr", "code-review", "security-audit", "hooks", "eslint"]
+}

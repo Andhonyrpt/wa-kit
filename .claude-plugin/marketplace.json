@@ -1,0 +1,17 @@
+{
+  "name": "wa-kit",
+  "owner": {
+    "name": "Andhony Rodolfo Palacios Téllez"
+  },
+  "metadata": {
+    "description": "Marketplace de wa-kit, el equipo de desarrollo para Claude Code."
+  },
+  "plugins": [
+    {
+      "name": "wa-kit",
+      "source": "./",
+      "description": "Subagentes arquitecto, backend, frontend y revisor; comandos /feature y /auditar; hooks de guardia, lint y pendientes.",
+      "version": "0.1.0"
+    }
+  ]
+}
